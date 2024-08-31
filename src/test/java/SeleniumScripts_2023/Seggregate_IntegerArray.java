@@ -3,6 +3,8 @@ package SeleniumScripts_2023;
 import java.util.Arrays;
 import java.util.LinkedList;
 
+//Updated Comment added SOPL
+
 public class Seggregate_IntegerArray {
 
 	public static void main(String[] args) {
@@ -27,7 +29,7 @@ public class Seggregate_IntegerArray {
 		
 		System.out.println("");
 		System.out.println("Original Array: "+Arrays.toString(arr));
-		System.out.println("");
+		System.out.println("********************************************");
 		System.out.println("After Seggregate Array: "+ll);
 		
 		
