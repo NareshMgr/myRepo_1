@@ -14,6 +14,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+//Program for Dynamic xpath
+
 public class DynamicXpath {
 
 	public static void main(String[] args) throws Exception{
