@@ -33,6 +33,7 @@ public class Method1 {
 				 
 			 } */
 			 System.out.println(opt.getText());
+			 
 		 }
 		 
 		 driver.close();
