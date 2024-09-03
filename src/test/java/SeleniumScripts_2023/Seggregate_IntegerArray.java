@@ -31,7 +31,8 @@ public class Seggregate_IntegerArray {
 		System.out.println("Original Array: "+Arrays.toString(arr));
 		System.out.println("********************************************");
 		System.out.println("After Seggregate Array: "+ll);
-		
+		System.out.println("********************************************");
+		System.out.println("====Execution Completed=======");		
 		
 
 	}
